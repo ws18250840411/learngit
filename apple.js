@@ -5,4 +5,8 @@ console.log("我又新加了内容咯2222222222");
 console.log("我又新加了内容咯3333333333");
 console.log("我又新加了内容咯4444444444");
 console.log("我又创建了一个新的分支vincent");
+<<<<<<< HEAD
 console.log("我是主分支master");
+=======
+console.log("我是vincent分支，第二次创建新的内容");
+>>>>>>> vincent
