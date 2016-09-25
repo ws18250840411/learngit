@@ -1,0 +1,1 @@
+console.log("我是来只从core.js文件哦！");
